@@ -1,5 +1,7 @@
 # task
 
+https://gitlab.com/interprice/developer-test
+
 ## Project setup
 ```
 yarn install
