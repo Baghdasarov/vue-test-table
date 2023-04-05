@@ -1,0 +1,53 @@
+.v-row-group__header button:nth-child(2) {
+  display: none !important;
+}
+
+.filters .active {
+  background-color: rgb(82, 112, 148) !important;
+  color: white !important;
+}
+
+.customRow td span {
+  display: block;
+  text-align: start;
+}
+
+.customRow td {
+  text-align: start;
+}
+
+.companyName {
+  color: black;
+  font-weight: bold;
+}
+
+.inactiveCompany {
+  color: #bcbcbc;
+}
+
+.nameCell {
+  min-width: 250px;
+}
+
+.dateCell {
+  display: flex;
+  align-items: center;
+}
+
+.customFooter {
+  border: 1px solid #333;
+  margin-top: 20px !important;
+}
+
+.separator {
+  height: 1px;
+}
+
+.separator-colored {
+  height: 1px;
+  background-color: #333;
+}
+
+.background-light {
+  background-color: #f4f2d9;
+}
